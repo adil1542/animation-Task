@@ -313,6 +313,7 @@ nav ul li a:hover{
         .text-1,
         .text-2 {
             width: 100%;
+            order: 2;
             display:flex ;
             justify-content: center;
             text-align:justify;
